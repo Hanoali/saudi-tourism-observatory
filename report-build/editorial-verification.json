@@ -1,0 +1,316 @@
+{
+  "checked_on": "2026-09-29",
+  "source_file": "jmye_almnatq_2021_2025_3ea42fcd2d.xlsx",
+  "source_sha256": "525b1fb20ca55b7490ac76846ff4fee998106f3d4eb92debb97e39cf26006fcd",
+  "annual": [
+    {
+      "Tourists": 67311114.0,
+      "OvernightStays": 385102584.0,
+      "SpendingSAR": 116899660413.1,
+      "year": 2021,
+      "averageStay": 5.721233257259715
+    },
+    {
+      "Tourists": 94474362.0,
+      "OvernightStays": 640334575.0,
+      "SpendingSAR": 205553801479.72,
+      "year": 2022,
+      "averageStay": 6.777866094507206
+    },
+    {
+      "Tourists": 109343898.0,
+      "OvernightStays": 927640529.0,
+      "SpendingSAR": 255640712368.39,
+      "year": 2023,
+      "averageStay": 8.4836972704229
+    },
+    {
+      "Tourists": 115884802.0,
+      "OvernightStays": 1098844745.0,
+      "SpendingSAR": 283799950367.04,
+      "year": 2024,
+      "averageStay": 9.482216183965177
+    },
+    {
+      "Tourists": 122578300.0,
+      "OvernightStays": 1111752334.0,
+      "SpendingSAR": 303705233360.94,
+      "year": 2025,
+      "averageStay": 9.069732032504938
+    }
+  ],
+  "checks": [
+    {
+      "year": 2021,
+      "metric": "Tourists",
+      "dataset": "data.json",
+      "cell": "G1!D24",
+      "source": 67311114.0,
+      "actual": 67311114,
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "metric": "Tourists",
+      "dataset": "tourism-report.html",
+      "cell": "G1!D24",
+      "source": 67311114.0,
+      "actual": 67311114,
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "metric": "OvernightStays",
+      "dataset": "data.json",
+      "cell": "G1!D25",
+      "source": 385102584.0,
+      "actual": 385102584,
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "metric": "OvernightStays",
+      "dataset": "tourism-report.html",
+      "cell": "G1!D25",
+      "source": 385102584.0,
+      "actual": 385102584,
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "metric": "SpendingSAR",
+      "dataset": "data.json",
+      "cell": "G1!D26",
+      "source": 116899660413.1,
+      "actual": 116899660413.1,
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "metric": "SpendingSAR",
+      "dataset": "tourism-report.html",
+      "cell": "G1!D26",
+      "source": 116899660413.1,
+      "actual": 116899660413.1,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "Tourists",
+      "dataset": "data.json",
+      "cell": "G1!E24",
+      "source": 94474362.0,
+      "actual": 94474362,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "Tourists",
+      "dataset": "tourism-report.html",
+      "cell": "G1!E24",
+      "source": 94474362.0,
+      "actual": 94474362,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "OvernightStays",
+      "dataset": "data.json",
+      "cell": "G1!E25",
+      "source": 640334575.0,
+      "actual": 640334575,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "OvernightStays",
+      "dataset": "tourism-report.html",
+      "cell": "G1!E25",
+      "source": 640334575.0,
+      "actual": 640334575,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "SpendingSAR",
+      "dataset": "data.json",
+      "cell": "G1!E26",
+      "source": 205553801479.72,
+      "actual": 205553801479.72,
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "metric": "SpendingSAR",
+      "dataset": "tourism-report.html",
+      "cell": "G1!E26",
+      "source": 205553801479.72,
+      "actual": 205553801479.72,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "Tourists",
+      "dataset": "data.json",
+      "cell": "G1!F24",
+      "source": 109343898.0,
+      "actual": 109343898,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "Tourists",
+      "dataset": "tourism-report.html",
+      "cell": "G1!F24",
+      "source": 109343898.0,
+      "actual": 109343898,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "OvernightStays",
+      "dataset": "data.json",
+      "cell": "G1!F25",
+      "source": 927640529.0,
+      "actual": 927640529,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "OvernightStays",
+      "dataset": "tourism-report.html",
+      "cell": "G1!F25",
+      "source": 927640529.0,
+      "actual": 927640529,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "SpendingSAR",
+      "dataset": "data.json",
+      "cell": "G1!F26",
+      "source": 255640712368.39,
+      "actual": 255640712368.39,
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "metric": "SpendingSAR",
+      "dataset": "tourism-report.html",
+      "cell": "G1!F26",
+      "source": 255640712368.39,
+      "actual": 255640712368.39,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "Tourists",
+      "dataset": "data.json",
+      "cell": "G1!G24",
+      "source": 115884802.0,
+      "actual": 115884802,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "Tourists",
+      "dataset": "tourism-report.html",
+      "cell": "G1!G24",
+      "source": 115884802.0,
+      "actual": 115884802,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "OvernightStays",
+      "dataset": "data.json",
+      "cell": "G1!G25",
+      "source": 1098844745.0,
+      "actual": 1098844745,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "OvernightStays",
+      "dataset": "tourism-report.html",
+      "cell": "G1!G25",
+      "source": 1098844745.0,
+      "actual": 1098844745,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "SpendingSAR",
+      "dataset": "data.json",
+      "cell": "G1!G26",
+      "source": 283799950367.04,
+      "actual": 283799950367.04004,
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "metric": "SpendingSAR",
+      "dataset": "tourism-report.html",
+      "cell": "G1!G26",
+      "source": 283799950367.04,
+      "actual": 283799950367.04004,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "Tourists",
+      "dataset": "data.json",
+      "cell": "G1!H24",
+      "source": 122578300.0,
+      "actual": 122578300,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "Tourists",
+      "dataset": "tourism-report.html",
+      "cell": "G1!H24",
+      "source": 122578300.0,
+      "actual": 122578300,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "OvernightStays",
+      "dataset": "data.json",
+      "cell": "G1!H25",
+      "source": 1111752334.0,
+      "actual": 1111752334,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "OvernightStays",
+      "dataset": "tourism-report.html",
+      "cell": "G1!H25",
+      "source": 1111752334.0,
+      "actual": 1111752334,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "SpendingSAR",
+      "dataset": "data.json",
+      "cell": "G1!H26",
+      "source": 303705233360.94,
+      "actual": 303705233360.94,
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "metric": "SpendingSAR",
+      "dataset": "tourism-report.html",
+      "cell": "G1!H26",
+      "source": 303705233360.94,
+      "actual": 303705233360.94,
+      "passed": true
+    }
+  ],
+  "official_cross_check": "https://www.spa.gov.sa/en/N2615138",
+  "limitations": "Source workbook match and rounded external headline confirmation; not a survey audit."
+}

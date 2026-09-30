@@ -1,0 +1,6 @@
+{
+  "renderedViews": 60,
+  "filterScope": "passed",
+  "reset": "passed",
+  "note": "DOM logic checks; not a browser visual rendering test"
+}
